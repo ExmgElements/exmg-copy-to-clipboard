@@ -1,3 +1,5 @@
+#### ⚠️ Project no longer maintened here, please find this package under the [exmg-elements-monorepo](https://github.com/ExmgElements/exmg-elements-monorepo/tree/master/packages/exmg-copy-to-clipboard) ⚠️ ####
+
 # exmg-copy-to-clipboard
 
 Helper element to create icon/buttons that lets the user copy content to the clipboard. Just wrap it arround
